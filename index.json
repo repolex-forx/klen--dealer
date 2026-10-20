@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "dealer",
+  "versions": [
+    {
+      "commit": "6becc485fd13458ee982265ef8ed9b7e008d808b",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:39:01.966506+00:00"
+    }
+  ]
+}
