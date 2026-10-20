@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/dealer/commit/6becc485fd13458ee982265ef8ed9b7e008d808b",
       "git:hexsha": "6becc485fd13458ee982265ef8ed9b7e008d808b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/dealer/commit/90d8c4313f3d9cbaf74ae04801f4559bab649928",
